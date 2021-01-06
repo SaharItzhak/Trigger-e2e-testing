@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Sahar.itzhak\PycharmProjects\Trigger-e2e-testing\venv"
+VIRTUAL_ENV="C:\Users\Sahar.itzhak\PycharmProjects\Intel PT\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
